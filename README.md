@@ -179,13 +179,13 @@ recipe-page/
 ### 🖥️ **Desktop View (1440px)**
 
 <div align="center">
-  <img src="//assets/images/desktop-view.png? text=Desktop+View" alt="Desktop view" width="80%">
+  <img src="//assets/images/desktop-view.png? text=Desktop+View" alt="Desktop View" width="80%">
 </div>
 
 ### 📱 **Mobile View (375px)**
 
 <div align="center">
-  <img src="/assets/images/mobile-view.png? text=Mobile+View" alt="Mobile Screenshot" width="40%">
+  <img src="/assets/images/mobile-view.png? text=Mobile+View" alt="Mobile View" width="40%">
 </div>
 
 ### 🎨 **Design Comparison**
