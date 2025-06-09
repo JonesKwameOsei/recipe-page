@@ -19,4 +19,4 @@
 .vscode
 .vscode/*
 node-modules
-README*
+README-template.md
