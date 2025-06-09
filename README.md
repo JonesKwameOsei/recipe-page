@@ -179,20 +179,20 @@ recipe-page/
 ### 🖥️ **Desktop View (1440px)**
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x600/f3e5ab/996600?text=Desktop+View" alt="Desktop Screenshot" width="80%">
+  <img src="//assets/images/desktop-view.png? text=Desktop+View" alt="Desktop Screenshot" width="80%">
 </div>
 
 ### 📱 **Mobile View (375px)**
 
 <div align="center">
-  <img src="https://via.placeholder.com/375x800/f3e5ab/996600?text=Mobile+View" alt="Mobile Screenshot" width="40%">
+  <img src="/assets/images/mobile-view.png? text=Mobile+View" alt="Mobile Screenshot" width="40%">
 </div>
 
 ### 🎨 **Design Comparison**
 
-|                            Original Design                             |                               My Implementation                                |
-| :--------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
-| ![Original](https://via.placeholder.com/400x300/ddd/999?text=Original) | ![Implementation](https://via.placeholder.com/400x300/ddd/999?text=My+Version) |
+|                    Original Design                     |                      My Implementation                      |
+| :----------------------------------------------------: | :---------------------------------------------------------: |
+| ![Original](./design/desktop-design.jpg?text=Original) | ![Implementation](./design/implemented.png?text=My+Version) |
 
 ---
 
