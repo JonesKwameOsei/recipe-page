@@ -214,15 +214,7 @@ h2 {
 	}
 }
 
-h1,
-h2 {
+h2,
+h1 {
 	text-align: center;
-}
-
-.prep-time {
-	padding: 1.5em;
-}
-
-.prep-time h2 {
-	font-size: 1.25rem;
 }
