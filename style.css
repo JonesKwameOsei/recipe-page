@@ -19,7 +19,6 @@
 
 body {
 	font-family: 'Outfit', sans-serif;
-	font-size: 16px;
 	line-height: 1.5;
 	background-color: var(--stone-100);
 	color: var(--stone-600);
@@ -57,10 +56,18 @@ body {
 h1 {
 	font-family: 'Young Serif', serif;
 	font-size: 2.5em;
-	font-weight: 400;
+	font-weight: 700;
 	color: var(--stone-900);
 	line-height: 1;
 	margin-bottom: 1.5em;
+}
+
+h2 {
+	font-family: 'Young Serif', serif;
+	font-size: 1.75rem;
+	color: var(--brown-800);
+	margin-bottom: 1.5em;
+	margin-top: 2em;
 }
 
 .description {
@@ -104,17 +111,7 @@ h1 {
 }
 
 .prep-time li strong {
-	font-weight: 600;
 	font-weight: 700;
-}
-
-h2 {
-	font-family: 'Young Serif', serif;
-	font-size: 1.75rem;
-	/* font-weight: 400; */
-	color: var(--brown-800);
-	margin-bottom: 1.5em;
-	margin-top: 2em;
 }
 
 .ingredients ul,
